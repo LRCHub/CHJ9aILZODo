@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "幻のドラゴン",
+  "base_artist": "Spitz",
+  "createdAt": "2026-03-13T02:02:17.541347Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幻のドラゴン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_幻のドラゴン_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "幻のドラゴン",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_幻のドラゴン_スピッツ.txt"
+    }
+  ]
+}
